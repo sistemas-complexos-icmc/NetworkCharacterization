@@ -1,0 +1,17 @@
+[project]
+name = "NetworkCharacterization"
+version = "0.0.1"
+authors = [
+  { name="Vítor Fróis", email="frois@usp.br" },
+]
+description = "A package for network characterization"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/sistemas-complexos-icmc/network-characterization"
