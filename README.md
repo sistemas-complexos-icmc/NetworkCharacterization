@@ -11,5 +11,6 @@ pip install --upgrade https://github.com/sistemas-complexos-icmc/NetworkCharacte
 ## Uso
 ``` python
 from NetworkCharacterization import compute_network_measures
-compute_network_measures('barabasi_linear')
+df = compute_network_measures('barabasi_linear')
 ```
+
